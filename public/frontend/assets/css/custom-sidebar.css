@@ -1,0 +1,15 @@
+#header, #footer{
+    background-color: #f8f9fa !important;
+    color: #6f7180;
+}
+
+.nav-menu a:hover, 
+.nav-menu .active > a, 
+.nav-menu li:hover > a {
+text-decoration: none;
+color: black;
+}
+
+.mobile-nav-active .mobile-nav-toggle i {
+    color: rgba(26, 188, 156,1.0);
+}
